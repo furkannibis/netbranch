@@ -2,7 +2,7 @@
 
 ## Amaç
 
-GELİŞTİRİLME AŞAMASINDA. Birden fazla şehirde şubesi bulunan bir bir şirket için ağ tasarımı yapıp, bunu olabildiğince CIA üçgeni stantdartlarına uygun şekilde tasarlamak. Amaç bunu raporlamak değil günlük tutmak. O sebeple bu raporda o kadar da resmi olmayacağım.
+GELİŞTİRİLME AŞAMASINDA. Birden fazla şubesi bulunan bir bir şirket için ağ tasarımı yapıp, bunu olabildiğince CIA üçgeni stantdartlarına uygun şekilde tasarlamak.
 
 ## Hedefler
 
